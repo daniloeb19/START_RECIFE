@@ -1,0 +1,71 @@
+body {
+    background-color: rgb(220, 220, 220);
+    margin: 0;
+    padding: 0;
+}
+
+.menuH1,
+.menuH3 {
+    margin: 0;
+    padding: 0;
+    color: orange;
+    background-color: black;
+}
+
+#textoMotivacional {
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+.frase1 {
+    color: yellow;
+    font-style: italic;
+    background-color: black;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.frase2 {
+    color: white;
+    font-style: italic;
+    background-color: darkblue;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.frase3 {
+    color: orange;
+    font-style: italic;
+    background-color: black;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.frase4 {
+    color: white;
+    font-style: italic;
+    background-color: black;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+pre {
+    padding-top: 8px;
+    line-break: normal;
+    width: 400px;
+}
+
+img {
+    margin-top: 5px;
+    max-width: 40%;
+    width: 200px;
+}
+
+.content {
+   
+    display: table;
+    margin: 0 auto;
+    background-color: rgb(64, 64, 64);
+}
