@@ -1,0 +1,23 @@
+p {
+    font-weight: bold;
+    color: orange;
+}
+
+h1 {
+    color: azure;
+    font-weight: bold;
+}
+
+body {
+    background-color: black;
+}
+
+pre {
+    color: aqua;
+    font-weight: bold;
+    font-size: 18pt;
+}
+a{
+    color:yellow;
+    font-size: 16pt;
+}
