@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+}
+p,h1{
+    color: white;
+}
+a{
+    margin-left: 6px;
+}
+#link_id01,#link_id02,#link_id03,#link_id04{
+    color: green;
+}
+#link_id05,#link_id06,#link_id07,#link_id08{
+    color: red;
+}
