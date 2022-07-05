@@ -1,0 +1,38 @@
+header {
+    text-align: center;
+}
+
+#italico {
+    font-style: italic;
+}
+
+p{
+    font-size: 16pt;
+    margin-left: 4px;
+    padding-left: 4px;
+}
+
+#section,
+#aside {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(50, 120, 124);
+   
+}
+
+img {
+    max-width: 60%;
+}
+
+body {
+    font-weight: bolder;
+    color: black;
+    min-width: 100%;
+    background-color: rgb(67, 149, 154);
+    margin-left: 0;
+    padding-left: 0;
+}
