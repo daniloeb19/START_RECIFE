@@ -8,37 +8,48 @@ header {
     background-color: black;
     color: white;
 }
-a{
+
+a {
     text-decoration: none;
-    color:brown;
+    color: brown;
     font-weight: bolder;
 }
-img{
+
+img {
     width: 100%;
 }
+
 #content,
 #aside {
     width: 40%;
     display: grid;
     float: left;
-}
-
-div {
     margin-left: 5%;
 }
+
 
 #content {
     margin-right: 10px;
 }
 
 
-span{
+span {
     font-size: 13pt;
     font-weight: bolder;
-    
+
 }
 
-p{
+p {
     text-align: justify;
-  text-justify: inter-word;
+    text-justify: inter-word;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    clear: both;
+    height: 50px;
+    text-align: center;
+    font-size: 15pt;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
