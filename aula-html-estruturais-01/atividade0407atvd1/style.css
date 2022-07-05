@@ -1,0 +1,19 @@
+body{
+    color: white;
+    background-color: black;
+}
+pre {
+    font-size: 16pt;
+}
+
+#titulo {
+  
+    font-size: 16pt;
+    margin-bottom: 10px;
+}
+div{
+    display: inline-block;
+}
+img{
+    max-width: 60%;
+}
