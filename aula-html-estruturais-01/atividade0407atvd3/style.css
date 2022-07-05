@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: cornsilk;
+}
+
+header {
+    background-color: black;
+    color: white;
+}
+a{
+    text-decoration: none;
+    color:brown;
+    font-weight: bolder;
+}
+img{
+    width: 100%;
+}
+#content,
+#aside {
+    width: 40%;
+    display: grid;
+    float: left;
+}
+
+div {
+    margin-left: 5%;
+}
+
+#content {
+    margin-right: 10px;
+}
+
+
+span{
+    font-size: 13pt;
+    font-weight: bolder;
+    
+}
+
+p{
+    text-align: justify;
+  text-justify: inter-word;
+}
