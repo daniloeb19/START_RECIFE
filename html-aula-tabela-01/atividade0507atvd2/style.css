@@ -1,0 +1,18 @@
+table{
+    border-collapse: collapse; 
+}
+td{
+    padding: 5px;
+}
+th{
+    background-color: rgb(159, 159, 159);
+}
+caption{
+    background-color: rgb(70, 240, 152) ;
+}
+#tipo{
+    background-color: rgb(29, 78, 89);
+}
+#tabela2{
+    margin-top: 20px;
+}
