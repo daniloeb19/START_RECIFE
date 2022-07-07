@@ -1,0 +1,21 @@
+.pularLinha{
+    display: block;
+}
+.flex{
+    display: inline-flex;
+    height: 20px
+}
+#resposta{
+    margin-left: 5px;
+    width: 25px;
+}
+div{
+    margin-top: 30px;
+}
+.esquerda{
+    float: right;
+    display: grid;
+}
+#formulario{
+    max-width: 40%;
+}
