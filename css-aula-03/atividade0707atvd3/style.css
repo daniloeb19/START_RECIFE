@@ -1,0 +1,13 @@
+h1 {
+    background-color: green;
+    color: white;
+}
+
+body {
+    
+    background-color: lightblue;
+    background-image: url('_uploads/download.jpg');
+    background-repeat: no-repeat;
+    background-position: bottom right;    
+    background-position: fixed;
+}
