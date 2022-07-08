@@ -1,0 +1,55 @@
+#titulo {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.right {
+    float: right;
+    display: grid;
+}
+
+.left {
+    float: left;
+    display: grid;
+}
+
+.center {
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+img {
+    width: 20%;
+}
+
+#textarea {
+    background-color: bisque;
+    border-radius: 2px;
+    padding: 2px;
+}
+
+.aolado {
+    display: inline-block;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+footer {
+    text-align: center;
+    border-top: 1px solid #333;
+    bottom: 0;
+    left: 0;
+    height: 40px;
+    position: fixed;
+    width: 50%;
+    background-color: black;
+    color: white;
+}
+#body{
+    max-width: 50%!important;
+    min-width: 50%!important;
+}
