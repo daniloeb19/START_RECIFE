@@ -1,0 +1,16 @@
+{
+    "modelo": "IMAC",
+    "marca": "Apple",
+    "processador": "I5 2400S",
+    "memoria": "4x1 e 2x3 DDR3 PC3L ",
+    "monitor": "LED 21,5 polegadas",
+    "placaM": "IMAC 2011.1"
+}
+{
+    "modelo": "LENOVO",
+    "marca": "Lenovo",
+    "processador": "I7 7300U",
+    "memoria": "8GB DDR4 ",
+    "monitor": "LCD 15,5 polegadas",
+    "placaM": "Lenovo h465ti-V2"
+}
