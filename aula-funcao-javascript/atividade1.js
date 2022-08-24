@@ -2,7 +2,7 @@
 // a)       Ordenar os elementos do array na ordem invertida
 
 function retornarEstados() {
-    let estados = ["Pernambuco", "São Paulo", "Rio de Janeiro"];
+    let estados = ["Amazonas", "Roraima", "Acre"];
     estados.sort(function (a, b) {
         return a.localeCompare(b);
       });
