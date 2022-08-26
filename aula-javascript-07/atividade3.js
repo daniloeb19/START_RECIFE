@@ -23,6 +23,9 @@ console.log(texto.indexOf("humanidade"))
 // c)       Exibir no console.
 let valores = [];
 for (let index = 100; index >= 0; index--) {
-    valores.push(index);
+    if(index%2==0){
+        valores.push(index);
+    }
+    
 }
 console.log(valores.toString().replaceAll(",", " - "));
